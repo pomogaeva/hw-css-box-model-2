@@ -51,7 +51,7 @@ h1 {
 }
 
 footer {
-  margin-bottom: 30px;
+  padding-bottom: 70px;
   font-size: 14px;
 }
 
@@ -73,7 +73,7 @@ h1, p {
   width: 900px;
   padding-top: 15px;
   padding-bottom: 15px;
-  border: 4px  solid #fff;
+  box-shadow: inset 0 0 0 2px #fff, 0 0 0 2px #fff;
   text-align: center;
 }
 
